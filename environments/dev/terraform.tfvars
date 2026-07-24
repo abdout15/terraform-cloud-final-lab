@@ -1,0 +1,5 @@
+project_name       = "terraform-cloud-lab"
+environment        = "dev"
+aws_region         = "eu-west-3"
+vpc_cidr           = "10.10.0.0/16"
+public_subnet_cidr = "10.10.1.0/24"
