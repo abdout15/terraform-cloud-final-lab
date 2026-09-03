@@ -1,6 +1,6 @@
 # Terraform Cloud — Dev, Test et Prod
 
-Mini-projet Terraform multi-environnement déployé sur AWS avec HCP Terraform.
+Projet Terraform multi-environnement déployé sur AWS avec HCP Terraform.
 
 ## Environnements
 
